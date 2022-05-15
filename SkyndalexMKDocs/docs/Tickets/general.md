@@ -1,4 +1,0 @@
-# General
-## Enabling
-## Disabling
-## Sending
